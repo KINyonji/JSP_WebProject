@@ -1,4 +1,4 @@
-# JSP_WebProject
+# JSP_WebProject (Eclipse)
  
 ### 프로젝트
 
